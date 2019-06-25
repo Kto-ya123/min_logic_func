@@ -1,0 +1,29 @@
+﻿  Source.cpp
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(92): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(129): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(131): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(148): warning C4018: <: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(233): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void minfunc<SDNF>(T &)"
+          with
+          [
+              T=SDNF
+          ]
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(150): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(181): warning C4018: <: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(239): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void table<SKNF>(T &,T &)"
+          with
+          [
+              T=SKNF
+          ]
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(185): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(187): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(212): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\minlogfunc\minlogfunc\source.cpp(214): warning C4018: <: несоответствие типов со знаком и без знака
+  MinLogFunc.vcxproj -> F:\Visual Studio Project\Projects\MinLogFunc\Debug\MinLogFunc.exe
+  MinLogFunc.vcxproj -> F:\Visual Studio Project\Projects\MinLogFunc\Debug\MinLogFunc.pdb (Partial PDB)
